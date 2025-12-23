@@ -2,11 +2,11 @@
 
 A regime-adaptive algorithmic trading strategy that combines **Trend-Quality (TQ) filtering** with **channel-based triggers** (Bollinger Bands or Linear Regression Channels) to dynamically switch between mean-reversion and breakout modes.
 
-![Backtest Image](backtests/linreg-image.png)
-
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-QuantConnect-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
+
+![Backtest Image](backtests/linreg-image.png)
 
 ## Table of Contents
 
